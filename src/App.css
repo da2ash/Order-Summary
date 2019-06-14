@@ -1,0 +1,20 @@
+.container {
+	background-color: white;
+    width: fit-content;
+    opacity: 0.9;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 2px 2px 8px 2px #d3d3d3;
+    padding: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.border {
+    padding-top: 3em;
+    padding-bottom: 3em;    
+    width: auto;
+	font-family: Arial;
+	background-image: url(./static/images/background.jpg);
+	background-size: cover; 	
+}
